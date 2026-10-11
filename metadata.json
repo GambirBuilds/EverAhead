@@ -1,0 +1,6 @@
+{
+  "name": "EverAhead - Personal Life Operating System",
+  "description": "Futuristic, premium personal life operating system to organize daily life, goals, habits, finances, focus, and continuous personal growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
